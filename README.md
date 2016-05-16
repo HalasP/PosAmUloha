@@ -1,2 +1,2 @@
 # PosAmUloha
-Návrh riešenia problemu s izbou a nábytkom.
+Návrh riešenia problému s izbou a nábytkom.
